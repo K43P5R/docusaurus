@@ -26,6 +26,10 @@ are looking forward to receiving your application and meeting you for an intervi
 You can reach ESTIEM's president at estiem@iare.nu or the local responsible at lr_stockholm@estiem.org
 
 #### President
+<<<<<<< HEAD
 __Malte Rudström__ I-24 estiem@iare.nu
+=======
+__Mathea Belsa Krohné__ I-23, estiem@iare.nu
+>>>>>>> ae331d66e5152cb9087f9ed411f93d4891dace1b
 
 <img src={require("/static/img/profile.png").default} width="230"/>

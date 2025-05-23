@@ -22,7 +22,11 @@ Viktigt att veta är att fixa sittningar och pubar är minst lika kul som att g�
 För att komma i kontakt med Clubmästeriet kan du kontakta clubmästarna på clubmasteriet@iare.nu
 
 ### Clubmästare,
+<<<<<<< HEAD
 __Alva Bäckström__ I-24
+=======
+__Anna Stark__ I-23, clubmasteriet@iare.nu
+>>>>>>> ae331d66e5152cb9087f9ed411f93d4891dace1b
 
 
 <img src={require("/static/img/profile.png").default} width="230"/>

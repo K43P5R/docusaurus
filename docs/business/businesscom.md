@@ -16,8 +16,8 @@ Frågor gällande fakturor: ekonomi.naringsliv@iare.nu
 
 ### Ordförande
 
-__Lovisa Svedborg__ 
-I-24
+__Gabriel Otta__ 
+I-23
 naringsliv@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>

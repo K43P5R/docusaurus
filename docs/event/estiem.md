@@ -27,8 +27,14 @@ fram emot din ansökan och att få träffa dig på en intervju!
 
 
 ### Kontakt
-Vill du kontakta ESTIEM kan du nå Ordförande på estiem@iare.nu och Local Responsible på lr.stockholm@estiem.org.
+Vill du kontakta ESTIEM kan du nå Ordförande på estiem@iare.nu och Local Responsible på lr.stockholm@estiem.org
 
+<<<<<<< HEAD
 __Malte Rudström__ I-24 estiem@iare.nu
+=======
+### Ordförande
+
+__Mathea Belsa Krohné__ I-23, estiem@iare.nu
+>>>>>>> ae331d66e5152cb9087f9ed411f93d4891dace1b
 
 <img src={require("/static/img/profile.png").default} width="230"/>

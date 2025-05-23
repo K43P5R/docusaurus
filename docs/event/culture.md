@@ -7,11 +7,15 @@ Kulturnämnden är en relativt nystartad nämnd och är en av de nämnder inom s
 Nämnden består av ca 40 studenter, vilket är perfekt för att lära känna folk på sektionen, dels i den egna årskursen, men även studenter i andra årskurser. Som medlem är du med i ett skönt gäng där vi tillsammans utvecklar och kommer på nya idéer till våra event där målet är att skapa ett spännande och händelserikt studentliv på sidan om studierna. Vi hoppas att vi ses på våra events under året!
 
 
-## Kulturattaché
 
+<<<<<<< HEAD
 __Valter Svensson__ I-24
+=======
+>>>>>>> ae331d66e5152cb9087f9ed411f93d4891dace1b
 
-kultur@iare.nu
+### Kulturattaché
+
+__Bruno Rinaldo__ I-23, kultur@iare.nu
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

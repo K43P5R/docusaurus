@@ -21,8 +21,12 @@ Enda som krävs på de som deltar på våra event är ett glatt humör och nyfik
 
 ### Ordförande
 
+<<<<<<< HEAD
 __Axel Bandmann__ I-24
 i-case@iare.nu 
+=======
+__Erik Bringle__ I-23, i-case@iare.nu 
+>>>>>>> ae331d66e5152cb9087f9ed411f93d4891dace1b
 
 <img src={require("/static/img/profile.png").default} width="230"/>
 

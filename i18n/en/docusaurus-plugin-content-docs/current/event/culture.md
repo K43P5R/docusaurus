@@ -9,8 +9,8 @@ The committee consists of about 40 students, which is perfect for getting to kno
 
 ## Cultural attache
 
-__Bruno Rinaldo__ I-23
+__Valter Svensson__ I-24
 
 kultur@iare.nu
 
-<img src={require("/static/img/Kultur.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

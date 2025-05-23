@@ -5,12 +5,12 @@ iSpexet is Industrial Economics' chapter spex and was formed in 1997. A spex is 
 
 If you like student life, community and above all if you like to have fun, then iSpexet is the group for you!
 
-Spex director and committee manager 2023/2024 is Alma Gunnarsson, I-21. For more information about iSpexet, visit our Facebook page or www.ispexet.se.
+Spex director and committee manager 2025/2026 is Sakarias Ảman Rosengram, I-22. For more information about iSpexet, visit our Facebook page or www.ispexet.se.
 
 *iSpexet – for a really fun and student-friendly year at KTH!*
 
 ### Directeur
 
-__Gustaf Petersson__ I-21
+__Sakarias Ảman Rosengram__ I-22
 
-<img src={require("/static/img/Ispexet.jpg").default} width="230"/>
+<img src={require("/static/img/profile.png").default} width="230"/>

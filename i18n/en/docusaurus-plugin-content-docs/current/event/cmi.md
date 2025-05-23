@@ -22,7 +22,7 @@ It is important to know that arranging meetings and pubs is at least as much fun
 To get in touch with Clubmästeriet, you can contact the club masters at clubmasteriet@iare.nu.
 
 ### Club Master,
-__Anna Stark__ I-23
+__Alva Bäckström__ I-24
 
 
-<img src={require("/static/img/Cmi.jpg").default} width="230" />
+<img src={require("/static/img/profile.png").default} width="230" />
